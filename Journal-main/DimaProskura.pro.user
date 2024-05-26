@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 12.0.2, 2024-05-12T13:13:23. -->
+<!-- Written by QtCreator 12.0.2, 2024-05-26T16:06:38. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -246,10 +246,11 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Dima/Documents/Journal-main/DimaProskura.pro</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Dima/Documents/Journal-main/DimaProskura.pro</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">false</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/Dima/Documents/build-DimaProskura-Desktop_Qt_6_6_2_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
